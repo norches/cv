@@ -5,21 +5,21 @@
 Интегратор POS систем, Team Lead в "ReStart-App CO.": февраль 2018 – наст. время
 
  ### Стек технологий
- -HTML (●●●●●)
- -CSS / SCSS / SASS (●●●●●)
- -JS (ES5, ES6) (●●●●●)
- -React  (●●●●●)
- -Redux  (●●●●○)
- -GraphQL (●●●○○)
- -React Native  (●●●●○)
- -VueJS   (●●●●●)
- -Angular (●●●●○)
- -NodeJS (●●●●○)
- -Python (●●○○○)
- -GoLang  (●○○○○)
- -PHP  (●●○○○)
- -C#  (●●●●○)
- -C++ (●●●○○)
+ -HTML (●●●●●) <br>
+ -CSS / SCSS / SASS (●●●●●) <br>
+ -JS (ES5, ES6) (●●●●●) <br>
+ -React  (●●●●●) <br>
+ -Redux  (●●●●○) <br>
+ -GraphQL (●●●○○) <br>
+ -React Native  (●●●●○) <br>
+ -VueJS   (●●●●●) <br>
+ -Angular (●●●●○) <br>
+ -NodeJS (●●●●○) <br>
+ -Python (●●○○○) <br>
+ -GoLang  (●○○○○) <br>
+ -PHP  (●●○○○) <br>
+ -C#  (●●●●○) <br>
+ -C++ (●●●○○) <br>
  -UNIX scripting (●●○○○)
  
 ### Принял участие в проектах:
