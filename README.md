@@ -1,8 +1,9 @@
- ### CV
- ### Uvays Bakoev
-Опыт работы 6 лет  
-Фрилансер (WordPress, NodeJS, Angular, VanillaJS) : июнь 2015 – февраль 2018
-Интегратор POS систем, Team Lead в "ReStart-App CO.": февраль 2018 – наст. время
+ ### Контакты
+Uvays Bakoyev
+u.bakoyev@21-students.uz
+Phone: 998-91-402-9950
+Telegram: @ivo_norch
+
 
  ### Стек технологий
  -HTML (●●●●●) <br>
@@ -21,6 +22,12 @@
  -C#  (●●●●○) <br>
  -C++ (●●●○○) <br>
  -UNIX scripting (●●○○○)
+
+
+### О себе
+Опыт работы 6 лет  
+Фрилансер (WordPress, NodeJS, Angular, VanillaJS) : июнь 2015 – февраль 2018
+Интегратор POS систем, Team Lead в "ReStart-App CO.": февраль 2018 – наст. время
  
 ### Принял участие в проектах:
 [Backtracks.fm](https://backtracks.fm) - { HTML, SCSS, VanillaJS, VueJS } - сделал множество Vue компонентов ( для админ панели ), сверстал и написал стили HTML страниц (те что видит юзер), написал спецификации разработки HTML шаблонов ~ 1 год
@@ -38,6 +45,8 @@ WaiOra App { React Native, PHP Symfony } - внутреннее приложен
 [Aladdins.Uz](https://aladdins.uz) - { Ionic Framework, PHP Yii, VanillaJS, Angular } сервис доставки еды, Full-Stack и также Team Lead, свой проект, безуспешный, закрылся ~ 1 год
 
 RestoPOS - { C#, WPF, Entity Framework } приложение, ERP / POS система для учёта ресторана, ввёл ход разработки делал Code Review, имплемениторвал систему защиты ПО (система активации продукта) ~ 6 месяцев
+
+RPOS - WMS / POS автоматизация учёта ресторана - наст. время
 
 ...и ещё множество проектов (в основном как фрилансер) которые не записались в памяти т.к мелкие / короткая работа по ним
 
